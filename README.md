@@ -1,4 +1,4 @@
-# BST_IN_C
+# Binary Search Tree (BST) in C/C++
 A Binary Search Tree is a data structure where each node has at most two children, which are referred to as the left child and the right child. For each node, all elements in the left subtree are less than the node, and all elements in the right subtree are greater than the node. Your program should implement the following functions:
 
 Insert a key into the tree: This function should take a key (integer) as input and insert it into the BST. If the tree is empty, the new key becomes the root. Otherwise, you should traverse the tree to find the correct position to insert the new key, maintaining the BST property.
